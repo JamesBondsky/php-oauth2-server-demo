@@ -1,0 +1,7 @@
+{
+  "name": "omerucel/php-oauth2-server-demo",
+  "require": {
+    "bshaffer/oauth2-server-php": "1.8.0",
+    "bshaffer/oauth2-server-httpfoundation-bridge": "v1.1"
+  }
+}
